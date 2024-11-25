@@ -65,15 +65,17 @@ The Receipt Processor API allows users to submit receipt details and calculate r
   - **{id}**: The unique identifier of the receipt.
 - **Response** (JSON):
   - **Success**: 
-        ```json
-        {
-        "points": "64"
-        }
+    ```json
+    {
+    "points": "64"
+    }
+    ```
   - **Error**: 
-        ```json
-        {
-        "error": "Receipt not found"
-        }
+    ```json
+    {
+    "error": "Receipt not found"
+    }
+    ```
 
 ---
 
