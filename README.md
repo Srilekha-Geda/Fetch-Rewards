@@ -69,7 +69,7 @@ The Receipt Processor API allows users to submit receipt details and calculate r
   {
   "points": "64"
   }
-  - **Error**: 
+ - **Error**: 
   ```json
   {
   "error": "Receipt not found"
